@@ -3,4 +3,5 @@ export function compute (x: number){
     return 0
     else
     return x+1
+
 }
